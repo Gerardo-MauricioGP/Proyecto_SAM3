@@ -52,7 +52,7 @@ Este proyecto fue desarrollado y optimizado para ejecutarse en la nube.
 
 # Instrucciones de Instalación y Reproducción 
 
-# Para replicar nuestro entorno y obtener los resultados, sigue estos pasos:
+Para replicar nuestro entorno y obtener los resultados, sigue estos pasos:
 
 1. Clonar el repositorio:
    ```bash git
